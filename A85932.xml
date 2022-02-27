@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all fathers of noble families, and lovers of vertue.</title>
+            <author>Gerbier, Balthazar, Sir, 1592?-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85932</idno>
+            <idno type="STC">Wing G574</idno>
+            <idno type="STC">Thomason E1377_2</idno>
+            <idno type="STC">ESTC R209275</idno>
+            <idno type="EEBO-CITATION">99868161</idno>
+            <idno type="PROQUEST">99868161</idno>
+            <idno type="VID">169881</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85932)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169881)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 180:E1377[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all fathers of noble families, and lovers of vertue.</title>
+                  <author>Gerbier, Balthazar, Sir, 1592?-1667.</author>
+               </titleStmt>
+               <extent>13, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>With a preliminary imprimatur leaf; The last leaf is blank.</note>
+                  <note>An advertisement for Sir Balthazar Gerbier's academy, which "was to give instructions in all manner of subjects, from philosophy, languages, and mathematics, to riding the 'great horse', dancing and fencing. It was opened on 19 July 1649 at Gerbier's house at Bethnal Green".</note>
+                  <note>cf. DNB.</note>
+                  <note>Annotation on Thomason copy: "Aug. 4. 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Education --  England --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb n="1" facs="tcp:169881:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:169881:2"/>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Joannes Langley</signed> 
+               <dateline>
+                  <date>Jan. 5. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise_on_education">
+            <pb n="1" facs="tcp:169881:2" rendition="simple:additions"/>
+            <head>TO ALL FATHERS OF NOBLE FAMILIES, AND LOVERS OF VERTUE.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>Aug. 4. 1649</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>IR BALTHAZAR GERBIER Knight, the Author of the Aca<g ref="char:EOLhyphen"/>demy, wherein the honour of the Nation, the generall ſatisfaction of all Fathers of Families, and the improve<g ref="char:EOLhyphen"/>ment of all men that are lovers of Langua<g ref="char:EOLhyphen"/>ges, Sciences, and all Noble Exerciſes is concerned; having during his being con<g ref="char:EOLhyphen"/>verſant with forraine Nations, and his re<g ref="char:EOLhyphen"/>ſidency among them, in ſervice of the State,
+<pb n="2" facs="tcp:169881:3"/>obſerved both the advantages which Fa<g ref="char:EOLhyphen"/>thers of Families, and all lovers of vertue, procure to themſelves by publicke Acade<g ref="char:EOLhyphen"/>mies, as alſo the inconveniencies where<g ref="char:EOLhyphen"/>unto many of thoſe that travell, are ſub<g ref="char:EOLhyphen"/>ject; hath alſo fixt on this moſt Noble, and moſt neceſſary deſigne (how great and la<g ref="char:EOLhyphen"/>borious ſoever it may prove to him and his) to apply all his time, his cares, la<g ref="char:EOLhyphen"/>bours, faculties, and all poſſible induſtry, as well in his owne perſon, as by thoſe that ſhall teach the Latin, Greek, French, Ita<g ref="char:EOLhyphen"/>lian, Spaniſh, German, and Low Dutch, ſeverall ſorts of Hands of excellent Wri<g ref="char:EOLhyphen"/>ting; both Ancient and Moderne Hiſto<g ref="char:EOLhyphen"/>ries, joyntly with the Conſtitution, and Government of the moſt famous Empires and States of the World; beſides the true experimentall naturall Philoſophy, as alſo what is moſt neceſſary and moſt Noble of the Mathematicks, to wit, Arithmetick; the true method of keeping Bookes of Ac<g ref="char:EOLhyphen"/>count, by Debptor and Creditor, as is pra<g ref="char:EOLhyphen"/>ctiſed in <hi>Italy,</hi> and other parts of Europe,
+<pb n="3" facs="tcp:169881:3"/>Geometry, Geography, Coſmography, Perſpective, and Architecture, as well for Building, as for Magnificent ſhewes, and ſecret motions of Scenes, and the like: But above all, what is moſt ex<g ref="char:EOLhyphen"/>cellent of practicall Mathematicks, whatſoever belongeth to Fortification, Beſieging, and defending of places, Fire<g ref="char:EOLhyphen"/>works, ordering of Battalioes, and Mar<g ref="char:EOLhyphen"/>ches of Armies, Muſick, playing of all ſorts of Inſtruments, Dancing, Fencing, Ryding the Great Horſe, together with the new manner of Fighting on Horſe<g ref="char:EOLhyphen"/>back, and if there be any lovers of Ver<g ref="char:EOLhyphen"/>tue, who have an inclination to Draw<g ref="char:EOLhyphen"/>ing, Painting, Limming, and Carving either for their Curioſity, or to attaine unto a greater excellency in ſeverall of the forementioned Sciences (<hi>Viz.</hi> Ar<g ref="char:EOLhyphen"/>chitecture, Fortifications, <hi>&amp;c.</hi>) they may have them as exactly taught, as a<g ref="char:EOLhyphen"/>ny of the other Sciences, and by a ſhort Method, which ſhall give them a full inſight in the Theoricall part of the
+<pb n="4" facs="tcp:169881:4"/>ſayd Sciences, and Exerciſes, at the ſelf<g ref="char:EOLhyphen"/>ſame time that they ſhall be taught in the Forraigne Languages; whereunto ſhall ſerve ſeverall Treatiſes held forth by the ſayd SIR BALTHAZAR GERBIER, in the Forraigne Lan<g ref="char:EOLhyphen"/>guages aforeſayd, the Engliſh tongue being joyned thereunto, together with diverſe excellent Tables of very great uſe, for facilitating the matter, and help<g ref="char:EOLhyphen"/>ing the memory; which Treatiſes ſhal be continually at Miſtriſſe <hi>Allens</hi> Shop, at the ſigne of the Crowne in Popes head Alley, neere the Old Exchange, <hi>LON<g ref="char:EOLhyphen"/>DON:</hi> The ſayd SIR BALTHAZAR GERBIER, being fully perſwaded, that all ſuch Fathers of Families as mind the improvement of their Sonnes, will cheerefully and readily embrace what is now proffered unto them, and pre<g ref="char:EOLhyphen"/>ferre the placing of their Sonnes in this Academy, to their Travelling a<g ref="char:EOLhyphen"/>broad, not onely in troubled times, but at any other hereafter; for when all is
+<pb n="5" facs="tcp:169881:4"/>done, Parents doe ſpend much for keep<g ref="char:EOLhyphen"/>ing of ſome of their Sons abroad, when during that chargable time, they for the moſt part, doe become acquainted one<g ref="char:EOLhyphen"/>ly with Academiſts, and then returne; leaving to thoſe Forraigners, the honour of their Education; when if they bee taught before their Travelling abroad, they will then in a ſhort time make themſelves knowne among the beſt of men, in the Courts of Princes, and there lodge a glorious impreſſion of the Abi<g ref="char:EOLhyphen"/>lities of the Nation, every whit as able of Body and Minde, as any other can be: They will alſo, Travelling in a more mature age, be the more ſecured againſt thoſe, who make it their practice to cor<g ref="char:EOLhyphen"/>rupt young Men, and to infuſe into them deſtructive Principles, to their na<g ref="char:EOLhyphen"/>tive Countrey, and to their Religion; which is ſo generally manifeſt, as no doubt, both Germains, Polonians, Sweds, Danes, and Flemmings, will ſoone re<g ref="char:EOLhyphen"/>ſolve to Travell towards theſe parts, and
+<pb n="6" facs="tcp:169881:5"/>to this Academy, which will alſo re<g ref="char:EOLhyphen"/>dound to a particular glory to the nation both for the preſent, and for the future; and make good that the preſent time fa<g ref="char:EOLhyphen"/>voureth what is ſo noble, and ſo general<g ref="char:EOLhyphen"/>ly uſefull and commendable.</p>
+            <p>All Lovers of Vertue, are therefore invited to this Academy, where they ſhall be received, well uſed, carefully, and diligently Inſtructed, ſo they con<g ref="char:EOLhyphen"/>forme themſelves to all fit Academicall Orders; and for the better proſpering in their Studies, obſerve the fitteſt hours (as <hi>Aurora</hi> is ſayd a friend to the Mu<g ref="char:EOLhyphen"/>ſes) begin their Studies the Munday morning with Arithmetick, the Key, and entrance of Mathematicks.</p>
+            <p>Study at nine of the Clock the Lan<g ref="char:EOLhyphen"/>guages, untill Eleven; and then breake up for their recreation, and at Noone lend their eare to a publick Reader, who ſhall entertaine them with Hiſtories fit
+<pb n="7" facs="tcp:169881:5"/>for that houre, and being riſen from Ta<g ref="char:EOLhyphen"/>ble, apply themſelves to SIR BAL<g ref="char:EOLhyphen"/>THAZAR GERBIER (or his De<g ref="char:EOLhyphen"/>puty) to heare the expoſition of ſuch particulars as ſhall have beene read unto them; which done, for one halfe houre (beſides another halfe houre for their recreation) returne about two of the Clock to Study untill four of the Clock, the Elements of Euclide; untill ſix, Geometry, and Muſick.</p>
+            <p>Tueſday morning, Coſmography, Geography, and Languages; in the af<g ref="char:EOLhyphen"/>ternoone, Fortification, Arithmetick, Fencing, and Vauting.</p>
+            <p>Wedneſday morning, Architecture, Perſpective, and Language.</p>
+            <p>Thurſday morning, Drawing, and Language, in the afternoone, Painting, Limming, and Muſick.</p>
+            <p>
+               <pb n="8" facs="tcp:169881:6"/>
+Friday morning, naturall experimen<g ref="char:EOLhyphen"/>tall Philoſophy, Hiſtory, and Language, in the afternoone, Carving, Dancing, Fencing, Vauting.</p>
+            <p>Saturday morning, Scenes, Fireworks, Marches of Armies, they having beene at the Ryding of the great Horſe; in Summer, early in the morning before the heat of the day. The afternoone Studies are to laſt untill ſix of the Clocke in Summer, and in Winter untill five.</p>
+            <p>The Wedneſday afternoone, they are to recreate themſelves; as alſo the Sa<g ref="char:EOLhyphen"/>turday afternoone, eſpecially for pre<g ref="char:EOLhyphen"/>paring to the Sabbath; they ſhall have a fit vacation on the foure ſeaſons of the Yeare.</p>
+            <p>The Studious ſhall be bound to be<g ref="char:EOLhyphen"/>have themſelves peaceably and civilly: they ſhall not ſtirre from the publicke Study, nor from the Houſe, nor Ground,
+<pb n="9" facs="tcp:169881:6"/>but with conſent: They ſhall not ad<g ref="char:EOLhyphen"/>mit any viſits during the time of their Studies.</p>
+            <p>They ſhall not repaire to any Ta<g ref="char:EOLhyphen"/>vernes, nor any kinde of Victualling Houſes, on pretence of entertainments of ſuch Friends as they ſhall be viſited by, but preſent them with what is fit within doores, their Chamber, Orchard, or Gardens; and without any offence, or impediment to the Academy; in which taking of Tabacco, ſhall be pro<g ref="char:EOLhyphen"/>hibited.</p>
+            <p>Swearing abſolutely forbidden, the tranſgreſſor ſhall be obliged to pay two ſhillings to the Box for the poore: Ten ſhillings for a blow, ſo much more for an injurious word, or affront.</p>
+            <p>Two ſhillings at every time the Stu<g ref="char:EOLhyphen"/>dious abſents himſelfe from the publick attendance, except indiſpoſed in body.</p>
+            <p>
+               <pb n="10" facs="tcp:169881:7"/>
+They ſhall forbeare the receiving of any Maiden or Gentlewoman, on what pretence ſoever, except the viſit of Si<g ref="char:EOLhyphen"/>ſters, or Kindred, and ſuch as ſhall be in the company of their Mother, and ſuch grave Perſons, as may be admit<g ref="char:EOLhyphen"/>ted.</p>
+            <p>SIR BALTHAZAR GERBIER, his time to receive, and attend all thoſe that ſhall be deſirous to treate with him about the placing of Gentlemen in the Academy, ſhall be the Wedneſdayes and Saturdayes in the afternoone.</p>
+            <p>This ſhall be concluded with the ſay<g ref="char:EOLhyphen"/>ing:
+<q>Happy is the man that findeth Wiſedome, and the man that getteth <g ref="char:V">Ʋ</g>nderſtanding: <bibl>Prov. 3. Chap. 5. Verſ. 13.</bibl>
+               </q>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:169881:7"/>
+And with the Old <hi>Pibrac,</hi> in his French Verſes.
+<q xml:lang="frm">
+                  <l>Le Sage fils eſt du Pere la Joye:</l>
+                  <l>Or ſi tu veux ce ſage fils avoir,</l>
+                  <l>Dreſſe-le jeune au chemain du devoir;</l>
+                  <l>Mais ton Exemple eſt la plus courte voye.</l>
+               </q>
+            </p>
+            <p>Engliſhed by <hi>Silveſter.</hi>
+               <q>
+                  <l>The Parents comfort, is a prudent Sonne,</l>
+                  <l>Now, ſuch a Sonne if thou deſireſt aye,</l>
+                  <l>Direct him young, in Duties race to runne,</l>
+                  <l>But, thine Example is the neareſt way.</l>
+               </q>
+            </p>
+         </div>
+         <div type="notice">
+            <pb n="12" facs="tcp:169881:8"/>
+            <head>Advertiſement.</head>
+            <p>That however it is truely aſſerted, that the ſeverall Sciences and Exerciſes ſpecified, ſhall be carefully ſupplyed for the uſe and ſatisfaction of all that ſhall apply themſelves in obſervance or pra<g ref="char:EOLhyphen"/>ctice: And whilſt the ſayd Conſtitution ſhall have drawne together the moſt exquiſite Maſters, or Profeſſors, attain<g ref="char:EOLhyphen"/>able by any reaſonable Sallaries. They ſhall he engaged to read weekly, or oft<g ref="char:EOLhyphen"/>ner, Publick Lectures, whereunto ſtran<g ref="char:EOLhyphen"/>gers of civill Converſation, as well as the Academiſts ſhall be freely admit<g ref="char:EOLhyphen"/>ted: And it ſhall be in the pleaſure of every Scholler in this Academy, to ſe<g ref="char:EOLhyphen"/>lect the proſecution of any of them in particular, according to his Genius, or affection; and accordingly leſſen, or in<g ref="char:EOLhyphen"/>creaſe his charge. The Maſter and Con<g ref="char:EOLhyphen"/>ſtitution being chiefly poſitive, onely in the regulation, for preventing idleneſſe,
+<pb n="13" facs="tcp:169881:8"/>and conſequently vitiouſneſſe, in life, or manners; hoping that beginning and ending every Day, with Prayers, and Thankſgiving intended, and filling the reſt of the time with vertuous Exerciſe and Study, God will ſo bleſſe their en<g ref="char:EOLhyphen"/>deavours, as that Hee may be the more glorified, and this nation better ſerved, which is the moſt humble conſtant de<g ref="char:EOLhyphen"/>ſire of him that is wholly their Servant to ſuch purpoſe; and their obliged:</p>
+            <closer>
+               <signed>B. G.</signed>
+            </closer>
+            <pb facs="tcp:169881:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
